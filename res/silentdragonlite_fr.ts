@@ -16,12 +16,12 @@
     <message>
         <location filename="../src/addressbook.cpp" line="16"/>
         <source>Avatar</source>
-        <translation type="unfinished"></translation>
+        <translation>Avatar</translation>
     </message>
     <message>
         <location filename="../src/addressbook.cpp" line="16"/>
         <source>HushChatAddress</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresse HushChat</translation>
     </message>
     <message>
         <location filename="../src/addressbook.cpp" line="16"/>
@@ -47,7 +47,7 @@
     <message>
         <location filename="../src/chatbubbleme.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>De</translation>
     </message>
     <message>
         <location filename="../src/chatbubbleme.ui" line="38"/>
@@ -65,7 +65,7 @@
     <message>
         <location filename="../src/chatbubblepartner.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>De</translation>
     </message>
     <message>
         <location filename="../src/chatbubblepartner.ui" line="38"/>
@@ -92,7 +92,7 @@
     <message>
         <location filename="../src/connection.ui" line="70"/>
         <source>The Dragon Awakens...</source>
-        <translation type="unfinished"></translation>
+        <translation>Le Dragon se réveille...</translation>
     </message>
     <message>
         <source>Starting Up</source>
@@ -139,12 +139,12 @@ Veuillez entrer le mot de passe du wallet</translation>
     <message>
         <location filename="../src/newwallet.ui" line="14"/>
         <source>Create New SDL Wallet</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un nouveau portefeuille SDL</translation>
     </message>
     <message>
         <location filename="../src/newwallet.ui" line="20"/>
         <source>Confirm Passphrase:</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmer la phrase secrète :</translation>
     </message>
     <message>
         <location filename="../src/newwallet.ui" line="46"/>
@@ -159,22 +159,22 @@ Veuillez entrer le mot de passe du wallet</translation>
     <message>
         <location filename="../src/newwallet.ui" line="85"/>
         <source>Create a new wallet</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un nouveau portefeuille</translation>
     </message>
     <message>
         <location filename="../src/newwallet.ui" line="112"/>
         <source>Encryption Passphrase:</source>
-        <translation type="unfinished"></translation>
+        <translation>Phrase secrète de chiffrement :</translation>
     </message>
     <message>
         <location filename="../src/newwallet.ui" line="128"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Passphrase don&apos;t match&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;La phrase de passe ne correspond pas.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/newwallet.ui" line="144"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;16 letters minimum&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;16 lettres minimum&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Create a new Wallet</source>
@@ -191,42 +191,42 @@ Veuillez entrer le mot de passe du wallet</translation>
     <message>
         <location filename="../src/contactrequest.ui" line="32"/>
         <source>Send Contact Request</source>
-        <translation type="unfinished"></translation>
+        <translation>Envoyer une demande de contact</translation>
     </message>
     <message>
         <location filename="../src/contactrequest.ui" line="49"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;Insert a nickname for your contact:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;Insérez un surnom pour votre contact :&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/contactrequest.ui" line="78"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;Choose an avatar for your contact:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;Choisissez un avatar pour votre contact :&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/contactrequest.ui" line="100"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;Insert a memo for your request:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;Insérez un message pour votre demande :&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/contactrequest.ui" line="121"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;Your HushChat Address:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;Votre adresse HushChat :&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/contactrequest.ui" line="134"/>
         <source>Create New Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer une nouvelle adresse</translation>
     </message>
     <message>
         <location filename="../src/contactrequest.ui" line="175"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;Insert the address of your contact:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;Insérez l&apos;adresse de votre contact :&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/contactrequest.ui" line="194"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#d3d7cf;&quot;&gt;Generate your HushChat Address - please wait a second - &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#d3d7cf;&quot;&gt;Génération de votre adresse HushChat - Veuillez patienter - &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/contactrequest.ui" line="248"/>
@@ -301,17 +301,17 @@ Veuillez entrer le mot de passe du wallet</translation>
     <message>
         <location filename="../src/contactrequest.ui" line="412"/>
         <source>Add a memo to your request</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajoutez un message à votre demande</translation>
     </message>
     <message>
         <location filename="../src/contactrequest.ui" line="431"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="../src/contactrequest.ui" line="444"/>
         <source>Add Contact and Send Request</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter un contact et envoyer une demande</translation>
     </message>
 </context>
 <context>
@@ -333,17 +333,17 @@ Veuillez entrer le mot de passe du wallet</translation>
     <message>
         <location filename="../src/mainwindow.ui" line="97"/>
         <source>Shielded</source>
-        <translation>Privé</translation>
+        <translation>Privée</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="124"/>
         <source>Notarized</source>
-        <translation>Notarizé</translation>
+        <translation>Notariée</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="151"/>
         <source>Transparent</source>
-        <translation>Transparant</translation>
+        <translation>Transparante</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="191"/>
@@ -368,7 +368,7 @@ Veuillez entrer le mot de passe du wallet</translation>
     <message>
         <location filename="../src/mainwindow.ui" line="775"/>
         <source>Next Address</source>
-        <translation></translation>
+        <translation>Adresse suivante</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="890"/>
@@ -496,12 +496,12 @@ Veuillez entrer le mot de passe du wallet</translation>
     <message>
         <location filename="../src/mainwindow.ui" line="1860"/>
         <source>&amp;Send DenioD Feedback</source>
-        <translation>&amp;amp;Envoyer des commentaires à DenioD</translation>
+        <translation>Envoyer des commentaires à DenioD</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="1893"/>
         <source>&amp;Export seed phrase</source>
-        <translation>&amp;amp;Exporter la phrase clé (graine)</translation>
+        <translation>&amp;Exporter la phrase clé (graine)</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="1931"/>
@@ -521,7 +521,7 @@ Veuillez entrer le mot de passe du wallet</translation>
     <message>
         <location filename="../src/mainwindow.ui" line="1865"/>
         <source>&amp;Hush Discord</source>
-        <translation>&amp;amp;Discord Hush</translation>
+        <translation>Discord Hush</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="51"/>
@@ -531,17 +531,17 @@ Veuillez entrer le mot de passe du wallet</translation>
     <message>
         <location filename="../src/mainwindow.ui" line="248"/>
         <source>Deposit Hush</source>
-        <translation type="unfinished"></translation>
+        <translation>Déposer des Hush</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="953"/>
         <source>Information about Hush</source>
-        <translation></translation>
+        <translation>Informations à propos de Hush</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="1011"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Hush Blockchain Information&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Informations sur la Blockchain Hush&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="1027"/>
@@ -562,27 +562,27 @@ Veuillez entrer le mot de passe du wallet</translation>
     <message>
         <location filename="../src/mainwindow.ui" line="1048"/>
         <source>Next Halving</source>
-        <translation></translation>
+        <translation>Prochaine réduction (Halving)</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="1125"/>
         <source>Difficulty</source>
-        <translation></translation>
+        <translation>Difficulté</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="1139"/>
         <source>Last Notarized Block</source>
-        <translation></translation>
+        <translation>Dernier bloc notarié</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="1160"/>
         <source>Total Supply</source>
-        <translation></translation>
+        <translation>Approvisionnement total</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="1174"/>
         <source>Longestchain</source>
-        <translation></translation>
+        <translation>Longueur de la chaîne</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="1195"/>
@@ -592,32 +592,32 @@ Veuillez entrer le mot de passe du wallet</translation>
     <message>
         <location filename="../src/mainwindow.ui" line="1202"/>
         <source>Supply zAddr</source>
-        <translation></translation>
+        <translation>Nombre de zAddress</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="1230"/>
         <source>Supply tAddr</source>
-        <translation></translation>
+        <translation>Nombre de tAddress</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="1251"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Hush Market Information&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Informations sur le marché Hush&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="1274"/>
         <source>Market Cap</source>
-        <translation></translation>
+        <translation>Capitalisation boursière</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="1295"/>
         <source>Volume on Exchanges</source>
-        <translation></translation>
+        <translation>Volume sur les échanges</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="1318"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;This is a Lightwallet, you cant mine with it!&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Ceci est un Lightwallet, vous ne pouvez pas miner avec cette application !</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;Ceci est un Lightwallet, vous ne pouvez pas miner avec cette application !&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="1342"/>
@@ -627,27 +627,27 @@ Veuillez entrer le mot de passe du wallet</translation>
     <message>
         <location filename="../src/mainwindow.ui" line="1382"/>
         <source>Incoming contact request</source>
-        <translation type="unfinished"></translation>
+        <translation>Demande de contact entrante</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="1426"/>
         <source>Add  a new contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter un nouveau contact</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="1462"/>
         <source>Get a new Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtenir une nouvelle adresse</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="1515"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;Contactlist&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;Liste des contacts&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="1568"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Contact Name :&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Nom du contact :&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="1581"/>
@@ -657,25 +657,25 @@ Veuillez entrer le mot de passe du wallet</translation>
     <message>
         <location filename="../src/mainwindow.ui" line="1612"/>
         <source>The locks shows you the status of the message. Red lock = unconfirmed, green lock = min. 1 confirmations, orange lock = message is notarized</source>
-        <translation type="unfinished"></translation>
+        <translation>Les verrous vous indiquent l&apos;état du message. Verrou rouge = non confirmé, verrou vert = minimum 1 confirmation, cadenas orange = le message est notarié</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="1870"/>
         <source>&amp;Hush Website</source>
-        <translation>&amp;Site Internet Hush</translation>
+        <translation>Site Internet Hush</translation>
     </message>
     <message>
         <source>z-Addr(Sapling)</source>
-        <translation type="vanished">Adresse-z(Sapling)</translation>
+        <translation type="vanished">zAddress (Sapling)</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="751"/>
-        <source>t-Addr</source>
-        <translation>Adresse-t</translation>
+        <source>tAddress</source>
+        <translation>tAddress</translation>
     </message>
     <message>
         <source>z-Addr(Sprout)</source>
-        <translation type="vanished">Adresse-z(Sprout)</translation>
+        <translation type="vanished">tAdresse(Sprout)</translation>
     </message>
     <message>
         <source>New Address</source>
@@ -714,7 +714,7 @@ Veuillez entrer le mot de passe du wallet</translation>
     <message>
         <location filename="../src/mainwindow.ui" line="738"/>
         <source>z-Addr</source>
-        <translation>z-Add</translation>
+        <translation>zAddress</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="782"/>
@@ -732,7 +732,7 @@ Veuillez entrer le mot de passe du wallet</translation>
     </message>
     <message>
         <source>This is a Lightwallet, you cant mine with it! not mining</source>
-        <translation type="vanished">Vous ne minez pas à présent</translation>
+        <translation type="vanished">Vous utiisez un portefeuille léger. Vous ne pouvez pas miner avec cette version.</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.ui" line="1034"/>
@@ -913,7 +913,7 @@ Veuillez entrer le mot de passe du wallet</translation>
     </message>
     <message>
         <source>Thanks for supporting silentdragon!</source>
-        <translation type="vanished">Merci de supporter silentdragon !</translation>
+        <translation type="vanished">Merci de supporter silentDragon !</translation>
     </message>
     <message>
         <source>Donate 0.01 </source>
@@ -921,7 +921,7 @@ Veuillez entrer le mot de passe du wallet</translation>
     </message>
     <message>
         <source> to support silentdragon</source>
-        <translation type="vanished"> pour supporter silentdragon</translation>
+        <translation type="vanished"> pour supporter silentDragon</translation>
     </message>
     <message>
         <source>You are on testnet, your post won&apos;t actually appear on z-board.net</source>
@@ -1108,7 +1108,7 @@ Veuillez utiliser &quot;Supprimer le chiffrement du wallet&quot; si vous souhait
         <location filename="../src/mainwindow.cpp" line="682"/>
         <location filename="../src/mainwindow.cpp" line="1286"/>
         <source>Copy block explorer link</source>
-        <translation type="unfinished"></translation>
+        <translation>Copier le lien de l&apos;explorateur de blocs</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="748"/>
@@ -1154,22 +1154,22 @@ Veuillez utiliser &quot;Supprimer le chiffrement du wallet&quot; si vous souhait
         <location filename="../src/mainwindow.cpp" line="448"/>
         <location filename="../src/mainwindow.cpp" line="624"/>
         <source>Wallet Encryption Success</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiffrement du portefeuille effectuée avec succés.</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="462"/>
         <source>Your wallet is not encrypted with a passphrase.</source>
-        <translation type="unfinished"></translation>
+        <translation>Votre portefeuille n&apos;est pas chiffrée avec une phrase secrète.</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="535"/>
         <source>Wallet decryption Success</source>
-        <translation type="unfinished"></translation>
+        <translation>Décryptage du portefeuille effectué avec succés.</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="616"/>
         <source>You still have plaintext data on your disk!</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous avez toujours des données non cryptées sur votre disque !</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="1211"/>
@@ -1254,17 +1254,17 @@ Veuillez utiliser &quot;Supprimer le chiffrement du wallet&quot; si vous souhait
     <message>
         <location filename="../src/mainwindow.cpp" line="1426"/>
         <source>Copied message to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Message copié dans le presse-papiers</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="1459"/>
         <source>Copied Txid to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>TxID copié dans le presse-papiers</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="1656"/>
         <source>Created new t-Addr</source>
-        <translation>Nouvelle Adresse-t créée</translation>
+        <translation>Nouvelle tAddress bcréée</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="1712"/>
@@ -1377,47 +1377,51 @@ Remarque: Les fonds nécessitent 5 confirmations avant de pouvoir être dépens�
         <location filename="../src/chatmodel.cpp" line="547"/>
         <location filename="../src/chatmodel.cpp" line="828"/>
         <source>You have to select a contact and insert a Memo</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous devez sélectionner un contact et insérer un message</translation>
     </message>
     <message>
         <location filename="../src/chatmodel.cpp" line="548"/>
         <location filename="../src/chatmodel.cpp" line="829"/>
         <source>You have selected no Contact from Contactlist,
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Vous n&apos;avez sélectionné aucun contact dans la liste des contacts,</translation>
     </message>
     <message>
         <location filename="../src/chatmodel.cpp" line="548"/>
         <location filename="../src/chatmodel.cpp" line="829"/>
         <source>
 or your Memo is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>
+ou votre message est vide</translation>
     </message>
     <message>
         <location filename="../src/chatmodel.cpp" line="561"/>
         <location filename="../src/chatmodel.cpp" line="854"/>
         <source>Your Message is too long</source>
-        <translation type="unfinished"></translation>
+        <translation>Votre message est trop long</translation>
     </message>
     <message>
         <location filename="../src/chatmodel.cpp" line="562"/>
         <location filename="../src/chatmodel.cpp" line="855"/>
         <source>You can only write messages with 235 character maximum 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Vous pouvez écrire un message conteannt 235 caractères maximum
+		</translation>
     </message>
     <message>
         <location filename="../src/chatmodel.cpp" line="562"/>
         <location filename="../src/chatmodel.cpp" line="855"/>
         <source>
  Please reduce your message to 235 character.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Veuillez limiter votre message à 235 caractères.
+		</translation>
     </message>
     <message>
         <location filename="../src/chatmodel.cpp" line="575"/>
         <location filename="../src/chatmodel.cpp" line="868"/>
         <source>Message Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Message d&apos;erreur</translation>
     </message>
     <message>
         <location filename="../src/chatmodel.cpp" line="681"/>
@@ -1450,7 +1454,7 @@ Have: %1
 Need: %2
 
 Note: Funds need 1 confirmations before they can be spent</source>
-        <translation type="unfinished">Vous n&apos;avez pas assez de fonds disponibles pour envoyer cette transaction
+        <translation>Vous n&apos;avez pas assez de fonds disponibles pour envoyer cette transaction
 
 Ont:%1
 Besoin:%2
@@ -1462,18 +1466,19 @@ Remarque: Les fonds nécessitent 5 confirmations avant de pouvoir être dépens�
     <message>
         <location filename="../src/chatmodel.cpp" line="838"/>
         <source>Missing HushChat Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresse HushChat manquante</translation>
     </message>
     <message>
         <location filename="../src/chatmodel.cpp" line="839"/>
         <source>You have to create your HushChat address to send a contact request,
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Vous devez créer votre adresse HushChat pour envoyer une demande de contact,
+		</translation>
     </message>
     <message>
         <location filename="../src/chatmodel.cpp" line="895"/>
         <source>Your contact request will be sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Votre demande de contact sera envoyée</translation>
     </message>
     <message>
         <source>Amount &apos;%1&apos; is invalid!</source>
@@ -1564,7 +1569,7 @@ Remarque: Les fonds nécessitent 5 confirmations avant de pouvoir être dépens�
     <message>
         <location filename="../src/mobileappconnector.ui" line="14"/>
         <source>Mobile Connector App</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Connexion à l&apos;appicatoon mobile</translation>
     </message>
     <message>
         <location filename="../src/mobileappconnector.ui" line="94"/>
@@ -1598,7 +1603,7 @@ Remarque: Les fonds nécessitent 5 confirmations avant de pouvoir être dépens�
     <message>
         <location filename="../src/firsttimewizard.cpp" line="89"/>
         <source>Passphrase don&apos;t match or You have entered too few letters (16 minimum)</source>
-        <translation type="unfinished"></translation>
+        <translation>La phrase secret ne correspond pas ou vous avez entré trop peu de lettres (16 minimum)</translation>
     </message>
 </context>
 <context>
@@ -1800,7 +1805,7 @@ Not starting embedded hushd because --no-embedded was passed</source>
     <message>
         <location filename="../src/controller.cpp" line="614"/>
         <source>There was an error connecting to the server. Please check your internet connection. The error was</source>
-        <translation type="unfinished"></translation>
+        <translation>Une erreur s&apos;est produite lors de la connexion au serveur. S&apos;il vous plait, vérifiez votre connexion internet. L&apos;erreur était</translation>
     </message>
     <message>
         <location filename="../src/controller.cpp" line="1634"/>
@@ -1966,13 +1971,13 @@ Veuillez configurer l&apos;hôte/port et utilisateur/mot de passe dans le menu E
         <location filename="../src/addressbook.cpp" line="238"/>
         <location filename="../src/chatmodel.cpp" line="955"/>
         <source>Added Contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter un contact</translation>
     </message>
     <message>
         <location filename="../src/addressbook.cpp" line="239"/>
         <location filename="../src/chatmodel.cpp" line="956"/>
         <source>successfully added your new contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Votre nouveau contact a été ajouté avec succés</translation>
     </message>
     <message>
         <location filename="../src/addressbook.cpp" line="261"/>
@@ -2116,7 +2121,7 @@ Vous avez soit des fonds non confirmés soit le solde est trop petit pour une mi
     <message>
         <location filename="../src/recurringdialog.ui" line="14"/>
         <source>Reccuring Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Boîte de dialogue récurrente</translation>
     </message>
     <message>
         <location filename="../src/recurringdialog.ui" line="35"/>
@@ -2176,7 +2181,7 @@ Vous avez soit des fonds non confirmés soit le solde est trop petit pour une mi
     <message>
         <location filename="../src/recurringpayments.ui" line="14"/>
         <source>Reocurring Payments</source>
-        <translation type="unfinished"></translation>
+        <translation>Paiements récurrents</translation>
     </message>
 </context>
 <context>
@@ -2237,7 +2242,7 @@ Vous avez soit des fonds non confirmés soit le solde est trop petit pour une mi
     <message>
         <location filename="../src/recurringmultiple.ui" line="14"/>
         <source>Recurring Multiple Payments</source>
-        <translation type="unfinished"></translation>
+        <translation>Paiements multiples récurrents</translation>
     </message>
     <message>
         <location filename="../src/recurringmultiple.ui" line="20"/>
@@ -2397,7 +2402,7 @@ Vous avez soit des fonds non confirmés soit le solde est trop petit pour une mi
     <message>
         <location filename="../src/restoreseed.ui" line="14"/>
         <source>Restore Wallet Seed</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaurer à l&apos;aide de la graine du portefeuille</translation>
     </message>
     <message>
         <location filename="../src/restoreseed.ui" line="20"/>
@@ -2412,7 +2417,7 @@ Vous avez soit des fonds non confirmés soit le solde est trop petit pour une mi
     <message>
         <location filename="../src/restoreseed.ui" line="56"/>
         <source>Wallet Birthday</source>
-        <translation>Anniversaire du wallet</translation>
+        <translation>Date d&apos;anniversaire du wallet</translation>
     </message>
     <message>
         <location filename="../src/restoreseed.ui" line="63"/>
@@ -2780,12 +2785,12 @@ Vous avez soit des fonds non confirmés soit le solde est trop petit pour une mi
     <message>
         <location filename="../src/addressbook.ui" line="70"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nickname :&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Surnom :&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/addressbook.ui" line="100"/>
         <source>HushChat Address - give this Address only to your contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresse HushChat - Donnez cette adresse uniquement à votre contact</translation>
     </message>
     <message>
         <location filename="../src/addressbook.ui" line="117"/>
@@ -2860,12 +2865,12 @@ Vous avez soit des fonds non confirmés soit le solde est trop petit pour une mi
     <message>
         <location filename="../src/addressbook.ui" line="281"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Avatar :&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Avatar :&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/addressbook.ui" line="294"/>
         <source>Create a new HushChat zaddr</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un nouvelle zAddress HushChat</translation>
     </message>
     <message>
         <source>Label</source>
@@ -2980,7 +2985,7 @@ Vous avez soit des fonds non confirmés soit le solde est trop petit pour une mi
     <message>
         <location filename="../src/deposithush.ui" line="14"/>
         <source>Deposit Hush</source>
-        <translation type="unfinished"></translation>
+        <translation>Déposer des Hush</translation>
     </message>
     <message>
         <location filename="../src/deposithush.ui" line="26"/>
@@ -2989,27 +2994,31 @@ Vous avez soit des fonds non confirmés soit le solde est trop petit pour une mi
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Ubuntu&apos;; font-size:11pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Ubuntu&apos;; font-size:16pt;&quot;&gt;Please use the following hush address to transfer funds to SilentDragonLite. You can either copy the address or use the QR Code. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Ubuntu&apos;; font-size:11pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:&apos;Ubuntu&apos;; font-size:16pt;&quot;&gt;Veuillez utiliser l&apos;adresse Hush suivante pour transférer des fonds vers SilentDragonLite. Vous pouvez soit copier l&apos;adresse ou utiliser le code QR. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/deposithush.ui" line="37"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;QR Code of your Hush Address&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;QR Code de votre adresse Hush&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/deposithush.ui" line="44"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Your Hush Address &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; text-decoration: underline;&quot;&gt;Votre adresse Hush &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/deposithush.ui" line="51"/>
         <source>Hush zaddr</source>
-        <translation type="unfinished"></translation>
+        <translation>Hush zAddress</translation>
     </message>
     <message>
         <location filename="../src/deposithush.ui" line="58"/>
         <source>Copy Address</source>
-        <translation type="unfinished">Copier l&apos;adresse</translation>
+        <translation>Copier l&apos;adresse</translation>
     </message>
 </context>
 <context>
@@ -3022,27 +3031,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/encryption.ui" line="38"/>
         <source>Encryption Passphrase:</source>
-        <translation type="unfinished"></translation>
+        <translation>Phrase secrète de chiffrement :</translation>
     </message>
     <message>
         <location filename="../src/encryption.ui" line="64"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; color:#ef2929;&quot;&gt;WARNING:&lt;/span&gt; If you forget your passphrase, the only way to recover the wallet is from the seed phrase. If you don&apos;t have a backup of your seed phrase, please do it now!&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; color:#ef2929;&quot;&gt;WARNING:&lt;/span&gt; Si vous oubliez votre phrase secrète, le seul moyen de récupérer le portefeuille est à partir de la graine. Si vous n&apos;avez pas de sauvegarde de votre graine, faites-le maintenant!&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/encryption.ui" line="91"/>
         <source>Confirm Passphrase:</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmer la phrase secrète :</translation>
     </message>
     <message>
         <location filename="../src/encryption.ui" line="153"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Passphrase don&apos;t match&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;La phrase secrète ne correspond pas&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/encryption.ui" line="169"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;16 letters minimum&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;16 lettres minimum&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Encryption Password:</source>
@@ -3066,57 +3075,57 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/hushrequest.ui" line="14"/>
         <source>Request Payment</source>
-        <translation type="unfinished"></translation>
+        <translation>Demander un paiement</translation>
     </message>
     <message>
         <location filename="../src/hushrequest.ui" line="20"/>
         <source>TextLabel</source>
-        <translation type="unfinished">TextLabel</translation>
+        <translation>TextLabel</translation>
     </message>
     <message>
         <location filename="../src/hushrequest.ui" line="30"/>
         <source>Request payment from a Sapling address. You&apos;ll send a hush 0.0001 transaction to the address with a hush payment URI. The memo will be included in the transaction when the address pays you.</source>
-        <translation type="unfinished">Demander le paiement à une adresse de type Sapling. Vous enverrez une transaction de 0.0001 Hush à l&apos;adresse avec un URI de paiement Hush. Le mémo sera inclus dans la transaction lorsque l&apos;adresse vous payera.</translation>
+        <translation>Demander le paiement à une adresse de type Sapling. Vous enverrez une transaction de 0.0001 Hush à l&apos;adresse avec un URI de paiement Hush. Le mémo sera inclus dans la transaction lorsque l&apos;adresse vous payera.</translation>
     </message>
     <message>
         <location filename="../src/hushrequest.ui" line="40"/>
         <source>Request From</source>
-        <translation type="unfinished">Demande de</translation>
+        <translation>Demande de</translation>
     </message>
     <message>
         <location filename="../src/hushrequest.ui" line="60"/>
         <source>zaddr</source>
-        <translation type="unfinished"></translation>
+        <translation>zAddress</translation>
     </message>
     <message>
         <location filename="../src/hushrequest.ui" line="67"/>
         <source>Amount in </source>
-        <translation type="unfinished">Montant en </translation>
+        <translation>Montant en </translation>
     </message>
     <message>
         <location filename="../src/hushrequest.ui" line="77"/>
         <source>Amount</source>
-        <translation type="unfinished">Montant</translation>
+        <translation>Montant</translation>
     </message>
     <message>
         <location filename="../src/hushrequest.ui" line="84"/>
         <source>Amount USD</source>
-        <translation type="unfinished">Montant en USD</translation>
+        <translation>Montant en USD</translation>
     </message>
     <message>
         <location filename="../src/hushrequest.ui" line="94"/>
         <source>Memo</source>
-        <translation type="unfinished">Mémo</translation>
+        <translation>Message</translation>
     </message>
     <message>
         <location filename="../src/hushrequest.ui" line="121"/>
         <source>My Address</source>
-        <translation type="unfinished">Mon adresse</translation>
+        <translation>Mon adresse</translation>
     </message>
     <message>
         <location filename="../src/hushrequest.ui" line="128"/>
         <source>The recipient will see this address in the &quot;to&quot; field when they pay your request.</source>
-        <translation type="unfinished">Le destinataire verra cette adresse dans le champ &quot;à&quot; lorsqu&apos;il paiera votre demande.</translation>
+        <translation>Le destinataire verra cette adresse dans le champ &quot;à&quot; lorsqu&apos;il paiera votre demande.</translation>
     </message>
 </context>
 <context>
@@ -3172,32 +3181,32 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/removeencryption.ui" line="32"/>
         <source>Decrypt Your Wallet</source>
-        <translation type="unfinished"></translation>
+        <translation>Déchiffrer votre portefeuille</translation>
     </message>
     <message>
         <location filename="../src/removeencryption.ui" line="45"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; color:#ef2929;&quot;&gt;WARNING:&lt;/span&gt; If you remove your wallet.dat encryption, all your transactions and contacts are plaintext on disk!&lt;br/&gt;&lt;br/&gt;Messages sent and received are always encrypted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; color:#ef2929;&quot;&gt;AVERTISSEMENT:&lt;/span&gt; Si vous supprimez le cryptage du fichier wallet.dat, toutes vos transactions et contacts sont en clair sur disque!&lt;br/&gt;&lt;br/&gt;Les messages envoyés et reçus seront toujours cryptés.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/removeencryption.ui" line="71"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;16 letters minimum&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;16 lettres minimum&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/removeencryption.ui" line="94"/>
         <source>Encryption Passphrase:</source>
-        <translation type="unfinished"></translation>
+        <translation>Phrase secrète de chiffrement :</translation>
     </message>
     <message>
         <location filename="../src/removeencryption.ui" line="101"/>
         <source>Confirm Passphrase:</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmer la phrase secrète :</translation>
     </message>
     <message>
         <location filename="../src/removeencryption.ui" line="131"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;Passphrase don&apos;t match&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;La phrase secrète ne correspond pas&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -3205,42 +3214,42 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/requestContactDialog.ui" line="26"/>
         <source>Incoming Contact Request</source>
-        <translation type="unfinished"></translation>
+        <translation>Demande de contact entrante</translation>
     </message>
     <message>
         <location filename="../src/requestContactDialog.ui" line="32"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;Memo of the request&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;Message de la demande&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/requestContactDialog.ui" line="73"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;Open requests&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;Ouvrir une demande&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/requestContactDialog.ui" line="130"/>
         <source>Request from:</source>
-        <translation type="unfinished"></translation>
+        <translation>Demande de :</translation>
     </message>
     <message>
         <location filename="../src/requestContactDialog.ui" line="163"/>
         <source>Add New Contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter une nouvelle adresse</translation>
     </message>
     <message>
         <location filename="../src/requestContactDialog.ui" line="186"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Choose an avatar for your contact:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Choisissez un avatar pour votre contact :&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/requestContactDialog.ui" line="199"/>
         <source>My Zaddr:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ma zAddress</translation>
     </message>
     <message>
         <location filename="../src/requestContactDialog.ui" line="225"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="../src/requestContactDialog.ui" line="251"/>
@@ -3310,17 +3319,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/requestContactDialog.ui" line="406"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;Recently closed requests&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;Demandes récemment fermées&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/requestContactDialog.ui" line="419"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;Details of the request&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;Détails de la demande&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/requestContactDialog.ui" line="432"/>
         <source>Give a Nickname:</source>
-        <translation type="unfinished"></translation>
+        <translation>Donnez un surnom :</translation>
     </message>
 </context>
 <context>
@@ -3328,17 +3337,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/startupencryption.ui" line="32"/>
         <source>SDL Startup Decryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Démarrage du décryptage de SilentDragonLite</translation>
     </message>
     <message>
         <location filename="../src/startupencryption.ui" line="38"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If you have forgotten your passphrase, restore your wallet with your seed!&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Si vous avez oublié votre phrase secrète, restaurez votre portefeuille avec votre graine !&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/startupencryption.ui" line="58"/>
         <source>Encryption Passphrase:</source>
-        <translation type="unfinished"></translation>
+        <translation>Phrase secrète de chiffrement:</translation>
     </message>
 </context>
 <context>
